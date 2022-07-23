@@ -3129,12 +3129,20 @@ input, select, textarea {
 		/* Footer */
 				/* google map css */
 		#map {
-			width: 100%;
+			position: relative;
+			width: 35%;
+			height: 350px;
+			background-color: #CCC;
+			margin: 1% 0 0 15%;
+			}
+		
+		#map-container {
 			height: 100%;
-		  }
+			width: 100%;
+			}
 			#footer .container {
 				padding: 3em 1em 1em 1em ;
-			}
+			}z
 
 			#footer footer .copyright {
 				line-height: inherit;
