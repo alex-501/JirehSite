@@ -34,6 +34,8 @@
 
 	};
 
+
+	
 	/**
 	 * Panel-ify an element.
 	 * @param {object} userConfig User config.
