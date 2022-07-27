@@ -117,7 +117,9 @@ input, select, textarea {
 			overflow: auto;
 		}
 
+		/* background color */
 	body, input, select, textarea {
+		background-color: #5d6d83;
 		color: #6f7577;
 		font-family: "Raleway", "Helvetica", sans-serif;
 		font-size: 15pt;
