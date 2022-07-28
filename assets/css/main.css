@@ -3016,6 +3016,7 @@ input, select, textarea {
 
 				#header header {
 					padding-bottom: 0;
+					padding-top: 10px;
 				}
 
 					#header header h1 {
