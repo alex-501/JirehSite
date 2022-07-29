@@ -1930,7 +1930,7 @@ input, select, textarea {
 	section.special, article.special {
 		text-align: center;
 	}
-
+	
 	header p {
 		color: #a8b0b3;
 		letter-spacing: 0.05em;
@@ -2834,8 +2834,13 @@ input, select, textarea {
 					margin-top: 0.5em;
 				}
 
+				header.major {
+					background-color: #fff;
+					font-family: Arial, Helvetica, sans-serif ;
+				}
+				/* header letter specs  */
 			#header header p {
-				color: #ffffff;
+				color: #000000;
 				font-weight: 700;
 				margin: 1.5em 0 0 0;
 			}
