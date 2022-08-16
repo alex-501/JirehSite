@@ -123,7 +123,7 @@ input, select, textarea {
 	body, input, select, textarea {
 		background-color: #283d5a;
 		color: #6f7577;
-		font-family: "Raleway", "Helvetica", cursive;
+		font-family: "Raleway", "Helvetica", 'Times New Roman', Times, serif;
 		font-size: 15pt;
 		font-weight: 400;
 		line-height: 1.75em;
