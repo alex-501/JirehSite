@@ -3,5 +3,5 @@ function sendMail() {
     var subject = document.getElementById("cname").value;
     var email = document.getElementById("cemail").value;
 
-    window.location.replace(`mailto:bjazzjireh@gmail.com?body=${body} - Por Favor regrese un mensaje a ${email}&subject=${subject} busca mas informacion de Jireh`);    
+    window.location.replace(`mailto:bjazzjireh@gmail.com?body=${body} - Por Favor regrese un mensaje a ${email}&subject=${subject} Busca Mas Informacion`);    
 }
