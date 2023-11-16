@@ -7,7 +7,7 @@ $subject = $_POST['subject'];
 $message = $_POST['message'];
 
 if (isset($_POST['email'])) {	
-	if (preg_match('(\w[-._\w]*\w@\w[-._\w]*\w\.\w{2,})', $_POST['alexisrodriguez830@yahoo.com'])) {
+	if (preg_match('(\w[-._\w]*\w@\w[-._\w]*\w\.\w{2,})', $_POST['BetoRodriguez@EscuelaDeMusicaJirehAz.com'])) {
 		$msg = 'E-mail address is valid';
 	} else {
 		$msg = 'Invalid email address';
