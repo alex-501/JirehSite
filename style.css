@@ -44,7 +44,7 @@ https://matchthemes.com
 	--body-font-size: 16px;   
 	--body-line-height: 1.7;
 	--headings-font: Poppins, sans-serif;
-	--headings-color: #252525; 
+	--headings-color: rgba(128, 128, 128, 0.5);
 	--primary-color: #0e60a7; /* Blue as the primary color */
 	--extra-color1: #E1EDF0;
 	--extra-color2: #19303E;
