@@ -35,6 +35,8 @@ https://matchthemes.com
 * 
 */
 
+
+
 :root {  
 	--body-font: Lora, serif;
 	--body-color: #252525;
@@ -43,14 +45,14 @@ https://matchthemes.com
 	--body-line-height: 1.7;
 	--headings-font: Poppins, sans-serif;
 	--headings-color: #252525; 
-	--primary-color: #BC8D4B;
+	--primary-color: #0e60a7; /* Blue as the primary color */
 	--extra-color1: #E1EDF0;
 	--extra-color2: #19303E;
 	--menu-normal-color: #ffffff;
-	--menu-hover-color: #BC8D4B;
+	--menu-hover-color: #0e60a7; /* Blue for hover effect */
 	--submenu-background-color: #252525;
 	--submenu-normal-color: #ffffff;	
-	--submenu-hover-color: #BC8D4B;
+	--submenu-hover-color: #0e60a7; /* Blue hover effect for submenus */
 	--footer-background-color: #ffffff;
 	--footer-color: #252525;
 	--footer-title-color: #252525;
@@ -61,7 +63,6 @@ https://matchthemes.com
 	--headings-h5-size: 24px;
 	--headings-h6-size: 16px;
 }
-
 
 /*************************************
 
@@ -817,7 +818,7 @@ a.social-skype:hover {
 }
 
 .nav-bkg1 {
-	background: var(--headings-color);
+	background:  rgba(128, 128, 128, 0.5);
 	padding-bottom: 8px;
 	position: fixed;
 	top:0;
